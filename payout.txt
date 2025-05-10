@@ -1,0 +1,18 @@
+                name               hours  rate  payout
+HR
+--------------- Grace Lee          160    45    $7200
+--------------- Ivy Clark          158    38    $6004
+--------------- Liam Harris        155    42    $6510
+                                   473          $19714
+Marketing
+--------------- Alice Johnson      160    50    $8000
+--------------- Henry Martin       150    35    $5250
+                                   310          $13250
+Sales
+--------------- Karen White        165    50    $8250
+--------------- Mia Young          160    37    $5920
+                                   325          $14170
+Design
+--------------- Bob Smith          150    40    $6000
+--------------- Carol Williams     170    60    $10200
+                                   320          $16200
