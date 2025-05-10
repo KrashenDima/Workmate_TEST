@@ -1,34 +1,4 @@
 {
-    "HR": {
-        "employees": [
-            {
-                "name": "Grace Lee",
-                "hours": 160,
-                "rate": 45,
-                "payout": 7200,
-                "total_hours": 160,
-                "total_payout": 7200
-            },
-            {
-                "name": "Ivy Clark",
-                "hours": 158,
-                "rate": 38,
-                "payout": 6004,
-                "total_hours": 318,
-                "total_payout": 13204
-            },
-            {
-                "name": "Liam Harris",
-                "hours": 155,
-                "rate": 42,
-                "payout": 6510,
-                "total_hours": 473,
-                "total_payout": 19714
-            }
-        ],
-        "total_hours": 473,
-        "total_payout": 19714
-    },
     "Sales": {
         "employees": [
             {
@@ -72,6 +42,36 @@
         ],
         "total_hours": 310,
         "total_payout": 13250
+    },
+    "HR": {
+        "employees": [
+            {
+                "name": "Grace Lee",
+                "hours": 160,
+                "rate": 45,
+                "payout": 7200,
+                "total_hours": 160,
+                "total_payout": 7200
+            },
+            {
+                "name": "Ivy Clark",
+                "hours": 158,
+                "rate": 38,
+                "payout": 6004,
+                "total_hours": 318,
+                "total_payout": 13204
+            },
+            {
+                "name": "Liam Harris",
+                "hours": 155,
+                "rate": 42,
+                "payout": 6510,
+                "total_hours": 473,
+                "total_payout": 19714
+            }
+        ],
+        "total_hours": 473,
+        "total_payout": 19714
     },
     "Design": {
         "employees": [
